@@ -1,0 +1,26 @@
+{
+  "name": "tale-plugin-gps-logger",
+  "version": "1.0.0",
+  "description": "GPS logs position for mapping a tale game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tale",
+    "tale-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/tale-plugin-gps-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanramage/tale-plugin-gps-logger/issues"
+  },
+  "homepage": "https://github.com/ryanramage/tale-plugin-gps-logger",
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "dependencies": {
+    "geo-position": "^1.0.2"
+  }
+}
